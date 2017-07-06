@@ -27,11 +27,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textAlignment="textEnd"
-            android:textSize="8pt"
-            android:textColor="#000"
             android:background="@drawable/frame_bg_pink_right"
-            android:padding="5dp"/>
+            android:padding="5dp"
+            android:textAlignment="textEnd"
+            android:textColor="#000"
+            android:textSize="8pt" />
 
     </LinearLayout>
 
