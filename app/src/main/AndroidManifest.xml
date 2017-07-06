@@ -20,7 +20,8 @@
         <activity android:name=".SQLite.AccountingActivity" />
         <activity android:name=".ListView.MainActivity" />
         <activity android:name=".SQLite.AddAccountingActivity" />
-        <activity android:name=".SQLite.UpdateAccountingActivity"/>
+        <activity android:name=".SQLite.UpdateAccountingActivity" />
+        <activity android:name=".NewTaipeiFreeActivity.NewTaipeiFreeActivity"></activity>
     </application>
 
 </manifest>
