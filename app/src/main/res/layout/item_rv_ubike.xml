@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_rv_ubike_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NAME"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/tv_rv_ubike_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AREA"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/tv_rv_ubike_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TOTAL"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/tv_rv_ubike_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COUNT"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/tv_rv_ubike_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DATA"
+            android:textColor="#000"/>
+    </LinearLayout>
+
+</LinearLayout>
